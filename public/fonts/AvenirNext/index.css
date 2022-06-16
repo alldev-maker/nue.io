@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "AvenirNextRegular";
+  src: url("Regular/AvenirNextRegular.woff") format("woff"),
+       url("Regular/AvenirNextRegular.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AvenirNextMedium";
+  src: url("Medium/AvenirNextMedium.woff") format("woff"),
+       url("Medium/AvenirNextMedium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AvenirNextDemi";
+  src: url("Demi/AvenirNextDemi.woff") format("woff"),
+  url("Demi/AvenirNextDemi.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AvenirNextBold";
+  src: url("Bold/AvenirNextBold.woff") format("woff"),
+       url("Bold/AvenirNextBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+
